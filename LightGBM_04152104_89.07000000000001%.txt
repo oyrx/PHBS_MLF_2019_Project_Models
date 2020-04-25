@@ -1,1 +1,0 @@
-{'feature_fraction': 0.7, 'lambda_l2': 0.3, 'max_depth': 50, 'n_estimators': 1000, 'num_leaves': 100, 'objective': 'binary'}
