@@ -9,11 +9,12 @@
 Some pretrained models of project [PHBS_MLF_2019_Project
 ](https://github.com/oyrx/PHBS_MLF_2019_Project). 
 ## Navigation
-|Report |  Code   | Data & Model | 
-| ----- | --------- | ----------- | 
-|[📄 Report in PDF](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/docs/report-latex/document.pdf) |[Correlation and engineering](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Corrleations_And_Feature_Engineering.ipynb) |  [Description](#1) | 
-| - |[Cleaning](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/code/data_cleaning.ipynb)     | [Train.csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/train.csv)  | 
-|     -      |[Baselines and trees](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Modelling_LR_LightGBM_XGBoost_RandomForest.ipynb)     |[Test.csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/test.csv)  | 
+  
+|Report |  Code   | Data & Model |  
+| ----- | --------- | ----------- |  
+|[📄 Report in PDF](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/docs/report-latex/document.pdf) |[Correlation and engineering](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Corrleations_And_Feature_Engineering.ipynb) |  [Description](#1) |  
+| - |[Cleaning](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/code/data_cleaning.ipynb)     | [Train.csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/train.csv)  |  
+|     -      |[Baselines and trees](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Modelling_LR_LightGBM_XGBoost_RandomForest.ipynb)     |[Test.csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/test.csv)  |  
 |    -      |[ANN](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/ANN-part-code.ipynb)     | Models(You are here) |    
 
 [◀ Back to Project Homepage](https://github.com/oyrx/PHBS_MLF_2019_Project)  
@@ -38,14 +39,14 @@ Some pretrained models of project [PHBS_MLF_2019_Project
 
 ## Filename explained
 
-|Type |Filename |
+|Type |Filename |  
 |---|--- |--- |--- |--- |--- |  
-|**Model dumped**| `{model}` _ `{datetime}` . model 
-| |*e. g. LogisticRegression_04161442. model*| 
-|**Confusion matrix**| `{model}` _ `{datetime}.` png |
- ||*e. g. LogisticRegression_04161442. png* |
-|**Parameter**| `{model}` \_ `{datetime}` \_ `{accuracy}` %. txt 
-|| *e. g. LogisticRegression_04161442_89. 04%. txt* |
+|**Model dumped**| `{model}` _ `{datetime}` . model |  
+| |*e. g. LogisticRegression_04161442. model*|   
+|**Confusion matrix**| `{model}` _ `{datetime}.` png |  
+ ||*e. g. LogisticRegression_04161442. png* |  
+|**Parameter**| `{model}` \_ `{datetime}` \_ `{accuracy}` %. txt |   
+|| *e. g. LogisticRegression_04161442_89. 04%. txt* |  
 
 For ANN parameters: `final_ann_model_mod.pt` . 
 
