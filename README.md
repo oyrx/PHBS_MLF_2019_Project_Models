@@ -40,7 +40,7 @@ Some pretrained models of project [PHBS_MLF_2019_Project
 ## Filename explained
 
 |Type |Filename |  
-|---|--- |--- |--- |--- |--- |  
+|---|--- |
 |**Model dumped**| `{model}` _ `{datetime}` . model |  
 | |*e. g. LogisticRegression_04161442. model*|   
 |**Confusion matrix**| `{model}` _ `{datetime}.` png |  
