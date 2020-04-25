@@ -1,13 +1,25 @@
 <!--
  * @Author: your name
  * @Date: 2020-04-16 19:40:22
- * @LastEditTime: 2020-04-25 21:05:46
+ * @LastEditTime: 2020-04-25 21:08:26
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \models\README. md
  -->
 Some pretrained models of project [PHBS_MLF_2019_Project
 ](https://github.com/oyrx/PHBS_MLF_2019_Project). 
+
+## Navigation
+
+|Report |  Code   | Data & Model | 
+| ----- | --------- | ----------- | 
+|[📄 Report in PDF](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/docs/report-latex/document. pdf) |[Correlation and engineering](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Corrleations_And_Feature_Engineering. ipynb) |  [Description](#1) | 
+| - |[Cleaning](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/code/data_cleaning.ipynb)     | [Train. csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/train.csv)  | 
+|     -      |[Baselines and trees](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/Modelling_LR_LightGBM_XGBoost_RandomForest. ipynb)     |[Test. csv](https://raw.githubusercontent.com/oyrx/PHBS_MLF_2019_Project/master/data/test.csv)  | 
+|    -      |[ANN](https://github.com/oyrx/PHBS_MLF_2019_Project/blob/master/code/ANN-part-code. ipynb)     | Models(You are here) |    
+
+[◀ Back to Project Homepage](https://github.com/oyrx/PHBS_MLF_2019_Project)  
+<!--------------- contents --------------->
 
 ## Models available
 
